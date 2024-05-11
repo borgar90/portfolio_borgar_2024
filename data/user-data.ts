@@ -1,0 +1,21 @@
+export const userData = {
+  githubUser: "borgar90",
+  devUsername: "borgar90",
+  github: "https://github.com/borgar90",
+  facebook: "https://www.facebook.com/borgarflaen.stensrud",
+  linkedIn: "https://www.linkedin.com/in/borgar-stensrud-0204181a/",
+  resume: "na",
+  skills: [
+    "React",
+    "NextJS",
+    "Redux",
+    "Express",
+    "NestJS",
+    "MySql",
+    "MongoDB",
+    "Postgres",
+    "Docker",
+    "AWS",
+  ],
+  timezone: "UTC+2",
+};

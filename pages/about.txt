@@ -1,0 +1,32 @@
+about:
+
+I have worked with a lot of different
+        projects, from small websites to large web applications, and I have also
+        worked with AI, Machine Learning, and Automation. I have also worked
+        with a lot of different tools and technologies, like Git, Docker,
+        and more. I have also
+        worked with a lot of different databases, like MySQL, PostgreSQL,
+        MongoDB, and more. 
+		
+		I have also worked with a lot of different front-end
+        frameworks, like Angular, Vue.js, React.js and more. I have also worked with a
+        lot of different back-end frameworks, like Express, Koa, and more. I
+        have also worked with a lot of different testing frameworks, like Jest,
+        Mocha, and more. I have also worked with a lot of different CI/CD tools,
+        like Travis CI, CircleCI, and more. I have also worked with a lot of
+        different monitoring tools, like New Relic, Datadog, and more. I have
+        also worked with a lot of different logging tools, like Loggly,
+        Papertrail, and more. I have also worked with a lot of different
+        alerting tools, like PagerDuty, OpsGenie, and more. I have also worked
+        with a lot of different security tools, like Auth0, Okta, and more. I
+        have also worked with a lot of different performance tools, like
+        Lighthouse, WebPageTest, and more. I have also worked with a lot of
+        different SEO tools, like Google Search Console, Bing Webmaster Tools,
+        and more. I have also worked with a lot of different analytics tools,
+        like Google Analytics, Mixpanel, and more. I have also worked with a lot
+        of different marketing tools, like Mailchimp, HubSpot, and more. I have
+        also worked with a lot of different design tools, like Sketch, Figma,
+        and more. I have also worked with a lot of different prototyping tools,
+        like InVision, Marvel, and more. I have also worked with a lot of
+        different wireframing tools, like Balsamiq, Axure, and more. I have also
+        worked with a lot
